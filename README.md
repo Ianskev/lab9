@@ -16,7 +16,7 @@ Este proyecto realiza un análisis comparativo entre diferentes estrategias de f
 ### Instalación de dependencias
 
 ```bash
-pip install psycopg2-binary pandas matplotlib numpy python-dotenv
+pip install -r requirements.txt
 ```
 
 ## Configuración
